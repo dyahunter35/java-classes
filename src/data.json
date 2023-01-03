@@ -1,0 +1,149 @@
+{
+    "isSuccess": true,
+    "message": "suppling valut",
+    "data": {
+        "counts": {
+            "ch_old": 0,
+            "ch_now": 120279280,
+            "bn_old": 106000,
+            "bn_now": 81200,
+            "cash_old": 0,
+            "cash_now": 1200000,
+            "bn_total": 187200,
+            "ch_total": 120279280,
+            "cash_total": 1200000
+        },
+        "now": [
+            {
+                "id": 4,
+                "user_id": 25,
+                "caused_by": 1,
+                "payment_function": "كاش",
+                "payment_serial": 0,
+                "amount": 1200000,
+                "statment": "من حساب علاء الي حساب ضياء",
+                "status": 0,
+                "total_amount": -1198800,
+                "created_at": "2022-12-17T17:23:31.000000Z",
+                "updated_at": "2022-12-17T17:23:31.000000Z"
+            },
+            {
+                "id": 5,
+                "user_id": 14,
+                "caused_by": 1,
+                "payment_function": "بنكك",
+                "payment_serial": 1,
+                "amount": 1200,
+                "statment": "ه",
+                "status": 0,
+                "total_amount": -1200,
+                "created_at": "2022-12-17T17:24:22.000000Z",
+                "updated_at": "2022-12-17T17:24:22.000000Z"
+            },
+            {
+                "id": 6,
+                "user_id": 25,
+                "caused_by": 2,
+                "payment_function": "شيك",
+                "payment_serial": 122,
+                "amount": 120000000,
+                "statment": "12",
+                "status": 0,
+                "total_amount": -121198800,
+                "created_at": "2022-12-17T17:27:21.000000Z",
+                "updated_at": "2022-12-17T17:27:21.000000Z"
+            },
+            {
+                "id": 7,
+                "user_id": 25,
+                "caused_by": 2,
+                "payment_function": "شيك",
+                "payment_serial": 1,
+                "amount": 1280,
+                "statment": "hf",
+                "status": 0,
+                "total_amount": -121183280,
+                "created_at": "2022-12-17T18:07:37.000000Z",
+                "updated_at": "2022-12-17T18:07:37.000000Z"
+            },
+            {
+                "id": 8,
+                "user_id": 26,
+                "caused_by": 2,
+                "payment_function": "شيك",
+                "payment_serial": 166948398934,
+                "amount": 88000,
+                "statment": "استلام مبلغ شيك",
+                "status": 0,
+                "total_amount": -88000,
+                "created_at": "2022-12-17T18:40:00.000000Z",
+                "updated_at": "2022-12-17T18:40:00.000000Z"
+            },
+            {
+                "id": 9,
+                "user_id": 25,
+                "caused_by": 2,
+                "payment_function": "شيك",
+                "payment_serial": 7876876,
+                "amount": 90000,
+                "statment": "7687678",
+                "status": 0,
+                "total_amount": -90000,
+                "created_at": "2022-12-17T18:42:07.000000Z",
+                "updated_at": "2022-12-17T18:42:07.000000Z"
+            },
+            {
+                "id": 10,
+                "user_id": 25,
+                "caused_by": 2,
+                "payment_function": "شيك",
+                "payment_serial": 57657576,
+                "amount": 10000,
+                "statment": "657576576",
+                "status": 0,
+                "total_amount": -100000,
+                "created_at": "2022-12-17T18:43:08.000000Z",
+                "updated_at": "2022-12-17T18:43:08.000000Z"
+            },
+            {
+                "id": 11,
+                "user_id": 25,
+                "caused_by": 2,
+                "payment_function": "شيك",
+                "payment_serial": 98767687,
+                "amount": 80000,
+                "statment": "ggghjgjhgjhjgjhghj",
+                "status": 0,
+                "total_amount": -180000,
+                "created_at": "2022-12-17T18:47:16.000000Z",
+                "updated_at": "2022-12-17T18:49:58.000000Z"
+            },
+            {
+                "id": 12,
+                "user_id": 24,
+                "caused_by": 2,
+                "payment_function": "بنكك",
+                "payment_serial": 76876768,
+                "amount": 80000,
+                "statment": "teeeestt",
+                "status": 0,
+                "total_amount": -80000,
+                "created_at": "2022-12-17T19:02:06.000000Z",
+                "updated_at": "2022-12-17T19:02:06.000000Z"
+            },
+            {
+                "id": 13,
+                "user_id": 24,
+                "caused_by": 2,
+                "payment_function": "شيك",
+                "payment_serial": 76876854,
+                "amount": 10000,
+                "statment": "uuuyuiyuiy",
+                "status": 0,
+                "total_amount": -90000,
+                "created_at": "2022-12-17T19:02:35.000000Z",
+                "updated_at": "2022-12-17T19:04:02.000000Z"
+            }
+        ]
+    }
+}
